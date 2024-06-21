@@ -1,0 +1,12 @@
+C:\Users\Елена\source\repos\kursovaya\bin\Debug\kursovaya.exe.config
+C:\Users\Елена\source\repos\kursovaya\bin\Debug\kursovaya.exe
+C:\Users\Елена\source\repos\kursovaya\bin\Debug\kursovaya.pdb
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.csproj.AssemblyReference.cache
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.Properties.Resources.resources
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.csproj.GenerateResource.cache
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.exe
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.pdb
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.loginForm1.resources
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.Form1.resources
+C:\Users\Елена\source\repos\kursovaya\obj\Debug\kursovaya.error_enter.resources
